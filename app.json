@@ -3,9 +3,7 @@
     "name": "STEDI App",
     "slug": "stedi-app",
     "extra": {
-      "eas": {
-        "projectId": "1985f67a-c504-4346-8ca4-992921da0d92"
-      }
+      "eas": 
     },
     "ios": {
       "bundleIdentifier": "com.aforsberg.stediapp"
