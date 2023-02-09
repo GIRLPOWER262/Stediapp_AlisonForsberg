@@ -3,7 +3,7 @@
     "name": "STEDI App",
     "slug": "stedi-app",
     "extra": {
-      "eas": 
+      "eas": ""
     },
     "ios": {
       "bundleIdentifier": "com.aforsberg.stediapp"
